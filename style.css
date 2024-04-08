@@ -82,7 +82,7 @@ body {
     color: white;
     font-weight: 700;
     border-radius: .5rem;
-    padding: .7rem 5rem;
+    padding: .7rem 6rem;
     transition: color, background-color 200ms ease-in-out;
 }
 
